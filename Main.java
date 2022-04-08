@@ -9,7 +9,6 @@ import javax.swing.*;
  */
 
 public class Main {
-
     /**
      * Launch the application.
      */
