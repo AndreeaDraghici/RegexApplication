@@ -6,7 +6,7 @@ This is a desktop application that will extract sub-strings from source string, 
 # How to run
 
 1. After application started, user should be able to use keyboard to enter the pattern and the string to investigate.
-2. 
+
 ![image](https://user-images.githubusercontent.com/72825756/162381950-4b5e2ca3-e52e-4e09-834f-84efe031c9d6.png)
 
 
