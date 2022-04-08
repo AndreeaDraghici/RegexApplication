@@ -149,5 +149,4 @@ public class Controller {
         regularExpression.setText(null);
         testString.setText(null);
     }
-
 }
