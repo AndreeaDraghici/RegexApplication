@@ -5,6 +5,11 @@
 ### This is a desktop application that will extract sub-strings from source string, based on a pattern.
 
 -------------------------------
+# Inputs
+
+### Two input fields, are required.
+
+--------------------------------
 
 # How to run
 
@@ -12,8 +17,7 @@
 ![image](https://user-images.githubusercontent.com/72825756/162381950-4b5e2ca3-e52e-4e09-834f-84efe031c9d6.png)
 
 
-
-### 2. So, two input fields or similar, are required. One to enter pattern, the other one to enter the string to investigate. 
+### 2. So, two input fields, are required. One to enter pattern, the other one to enter the string to investigate. 
 ![image](https://user-images.githubusercontent.com/72825756/162382481-ea9ad479-bb66-4668-a5f3-4c05197a0fbc.png)
 
 --------------------------------------
@@ -22,3 +26,10 @@
 
 ![image](https://user-images.githubusercontent.com/72825756/162383068-597b36e4-35fe-4c9f-a292-7c14cd35fac4.png)
 
+-----------------------------------------
+# Functionality
+
+### As a model for the interface and functionality, I was inspired by the functionality of the regex101 site. (https://regex101.com/)
+
+---------------------------
+# Version 1.0.0 Initial
